@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Candance 👋  
 
-<!--
-**Cbeverly23/cbeverly23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌥️ **Aspiring Cloud Engineer** | 🐧 **Linux Enthusiast** | 💻 **Tech Explorer**
 
-Here are some ideas to get you started:
+I’m currently on a journey to become a **Cloud Engineer**, building my skills in:  
+- **Linux** (commands, administration, and shell scripting)  
+- **Cloud Security** fundamentals  
+- **AWS Cloud Services** and DevOps tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about problem-solving, learning new technologies, and creating solutions that make a difference.  
+
+📌 **Connect with me:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/candance-beverly-03b146130)  
+- 🐙 [GitHub](https://github.com/cbeverly23)  
+
+---
